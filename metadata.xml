@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <Team>
+        <LabelDefinitions>OlympiqueDeMarseille</LabelDefinitions>
+        <LabelDefinitions>ParisSG</LabelDefinitions>
+        <LabelDefinitions>OlympiqueLyonnais</LabelDefinitions>
+        <DataType>string</DataType>
+        <SingleValued>single-valued</SingleValued>
+    </Team>
+    <Color>
+        <LabelDefinitions>blue</LabelDefinitions>
+        <LabelDefinitions>red</LabelDefinitions>
+        <LabelDefinitions>white</LabelDefinitions>
+        <DataType>double</DataType>
+    </Color>
+</struct>
