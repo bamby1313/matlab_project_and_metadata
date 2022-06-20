@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <struct>
-    <Team>
+    <Category1>
+        <Name>Team</Name>
         <LabelDefinitions>OlympiqueDeMarseille</LabelDefinitions>
         <LabelDefinitions>ParisSG</LabelDefinitions>
         <LabelDefinitions>OlympiqueLyonnais</LabelDefinitions>
         <DataType>string</DataType>
         <SingleValued>single-valued</SingleValued>
-    </Team>
-    <Color>
+    </Category1>
+    <Category2>
+        <Name>Color</Name>
         <LabelDefinitions>blue</LabelDefinitions>
         <LabelDefinitions>red</LabelDefinitions>
         <LabelDefinitions>white</LabelDefinitions>
         <DataType>double</DataType>
-    </Color>
+    </Category2>
 </struct>
